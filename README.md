@@ -1,12 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 <div align="center">
 
 # 👋 Hi, I'm Jhair Junior Maldonado Quintana
