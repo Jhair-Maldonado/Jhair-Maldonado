@@ -63,6 +63,13 @@ Busco **prácticas preprofesionales** en desarrollo, sistemas o TI.
   </tr>
 </table>
 
+<a href="https://coraula-front.vercel.app"><img src="./assets/coraula.png" alt="Portal de CORAULA: selección de perfil entre Administrador, Directivo, Docente, Padre o Apoderado y Estudiante." width="100%" /></a>
+<sub>CORAULA: cada perfil entra a su propio entorno con permisos distintos.</sub>
+
+<!-- Cuando la demo de SIVI tenga datos de prueba, agrega aquí su captura:
+<img src="./assets/sivi.png" alt="Panel de SIVI" width="100%" />
+-->
+
 <details>
   <summary><strong>Otros trabajos</strong></summary>
   <br />
@@ -78,13 +85,15 @@ Busco **prácticas preprofesionales** en desarrollo, sistemas o TI.
 
 **A diario**
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,supabase,ts,js,react,nextjs,angular,tailwind,git,github,githubactions,maven&perline=15" alt="Java, Spring Boot, PostgreSQL, MySQL, Supabase, TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS, Git, GitHub, GitHub Actions, Maven" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,supabase,ts,js,react,nextjs,angular,html,css,tailwind,git,github,githubactions,postman&perline=9" alt="Java, Spring Boot, Maven, PostgreSQL, MySQL, Supabase, TypeScript, JavaScript, React, Next.js, Angular, HTML, CSS, Tailwind CSS, Git, GitHub, GitHub Actions, Postman" />
 
 **Aprendiendo**
 
 <img src="https://skillicons.dev/icons?i=python,docker&perline=15" alt="Python, Docker" />
 
 También: Spring Security, JUnit, Flyway, JWT y BCrypt, APIs REST, levantamiento de requerimientos y especificación SRS.
+
+<img src="./assets/languages.svg" alt="Lenguajes más usados en mis repositorios" width="480" />
 
 ## Cómo trabajo
 
@@ -97,6 +106,11 @@ También: Spring Security, JUnit, Flyway, JWT y BCrypt, APIs REST, levantamiento
 
 - Preparando las certificaciones **Oracle Java OCA y OCP**.
 - Publicando demos de CORAULA y SIVI con datos de prueba.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhair-Maldonado/Jhair-Maldonado/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Jhair-Maldonado/Jhair-Maldonado/output/github-snake.svg" alt="Animación de mi actividad en GitHub durante el último año" width="100%" />
+</picture>
 
 <details>
   <summary><strong>English</strong></summary>

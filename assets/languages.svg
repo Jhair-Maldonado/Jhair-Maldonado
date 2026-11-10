@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="162" viewBox="0 0 480 162" role="img" aria-labelledby="t">
+  <title id="t">Lenguajes más usados: Java 50%, TypeScript 44%, JavaScript 5%</title>
+  <style>
+    .h { font: 700 18px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #eef2fa; }
+    .s { font: 400 13px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #a3b1cf; }
+    .lang { font: 600 14px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #eef2fa; }
+    .pct { font: 400 14px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #a3b1cf; }
+  </style>
+  <rect width="480" height="162" rx="14" fill="#0f1a33"/>
+  <text x="24" y="36" class="h">Lenguajes más usados</text>
+  <text x="456" y="36" class="s" text-anchor="end">por volumen de código</text>
+  <clipPath id="bar"><rect x="24" y="64" width="432" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)"><rect x="24.0" y="64" width="217.0" height="10" fill="#f5b83d"/><rect x="241.0" y="64" width="190.3" height="10" fill="#9fb3ff"/><rect x="431.4" y="64" width="23.1" height="10" fill="#5b7cff"/></g>
+    <circle cx="29" cy="101" r="5" fill="#f5b83d"/>
+    <text x="42" y="106" class="lang">Java</text>
+    <text x="220" y="106" class="pct" text-anchor="end">50.2%</text>
+    <circle cx="249" cy="101" r="5" fill="#9fb3ff"/>
+    <text x="262" y="106" class="lang">TypeScript</text>
+    <text x="440" y="106" class="pct" text-anchor="end">44.1%</text>
+    <circle cx="29" cy="129" r="5" fill="#5b7cff"/>
+    <text x="42" y="134" class="lang">JavaScript</text>
+    <text x="220" y="134" class="pct" text-anchor="end">5.3%</text>
+</svg>
