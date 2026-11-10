@@ -1,166 +1,117 @@
-<div align="center">
+<img src="./assets/banner.svg" alt="Jhair Maldonado: desarrollo backend con Java y Spring Boot. Arquitectura hexagonal, seguridad con JWT y pruebas automatizadas." width="100%" />
 
-# 👋 Hi, I'm Jhair Junior Maldonado Quintana
-
-### Backend Developer | Systems Engineering Student | AI Integration
-
-> *"Building scalable solutions through clean architecture, secure integrations and continuous learning."*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhair%20Maldonado-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273)
-[![GitHub](https://img.shields.io/badge/GitHub-Jhair--Maldonado-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Jhair-Maldonado)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jhairmaldonadoquintana@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Systems Engineering student at Universidad Tecnológica del Perú (UTP)**, currently in my 9th academic cycle.
-
-My main interests are **backend development, database design, software architecture and artificial intelligence integration**.
-
-I enjoy building software solutions that solve real-world problems, especially systems involving:
-
-* Backend development and REST APIs
-* Authentication and role-based access control
-* Database design and cloud databases
-* AI integrations and contextual assistants
-* Secure handling of information
-* Scalable and maintainable architectures
-
-Currently, I'm strengthening my skills in **Java, Spring Boot, software architecture, security and AI-powered systems**.
-
----
-
-## 🛠 Tech Stack
-
-### Backend & Databases
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42"/>
+<p>
+  <a href="https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273"><img src="https://img.shields.io/badge/LinkedIn-Jhair_Maldonado-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jhairmaldonadoquintana@gmail.com"><img src="https://img.shields.io/badge/Correo-jhairmaldonadoquintana@gmail.com-F5B83D?style=flat-square&logo=gmail&logoColor=0F1A33&labelColor=0F1A33" alt="Correo" /></a>
+  <!-- Cuando el portafolio esté publicado, descomenta y pon la URL:
+  <a href="https://TU-URL.vercel.app"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-0F1A33?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio" /></a>
+  -->
 </p>
 
-### Frontend & UI
+Estudiante de noveno ciclo de **Ingeniería de Sistemas en la UTP** (Lima, Perú), enfocado en **backend con Java y Spring Boot**. Diseño los sistemas con arquitectura hexagonal, los protejo con JWT y roles, y respaldo cada módulo con pruebas automatizadas.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42"/>
-</p>
+Busco **prácticas preprofesionales** en desarrollo, sistemas o TI.
 
-### Tools & Development
+## Proyectos destacados
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="42" height="42"/>
-</p>
+<table>
+  <tr>
+    <th align="left">Proyecto</th>
+    <th align="left">Lo que hice</th>
+    <th align="left">Enlaces</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>CORAULA</strong><br />
+      <sub>Gestión académica, 2026</sub><br />
+      <sub>Java 17, Spring Boot 3.4, PostgreSQL, Next.js 16</sub>
+    </td>
+    <td valign="top">
+      La mayor parte del backend con arquitectura hexagonal y el módulo de administrador completo. Autenticación con JWT, roles, bloqueo por intentos fallidos y auditoría. El equipo mantiene más de 700 pruebas con CI.
+    </td>
+    <td valign="top">
+      <a href="https://coraula-front.vercel.app">Demo</a><br />
+      <a href="https://github.com/Jhair-Maldonado/CORAULA-FRONT">Frontend</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>SIVI</strong><br />
+      <sub>Ventas e inventario, 2025–2026</sub><br />
+      <sub>Java, Spring Boot, React, Gemini</sub>
+    </td>
+    <td valign="top">
+      Asistente con Gemini que consulta ventas, inventario y proveedores según el rol del usuario. Toda la reportería exportable a PDF y Excel, y el módulo de órdenes de compra con actualización de stock.
+    </td>
+    <td valign="top">
+      <a href="https://sivi-front.pages.dev">Demo</a><br />
+      <a href="https://github.com/Jhair-Maldonado/SIVI_FRONT">Frontend</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Chatbot de tareas</strong><br />
+      <sub>Curso de Lenguajes de Programación, 2025</sub><br />
+      <sub>Python, Gemini, PyDatalog</sub>
+    </td>
+    <td valign="top">
+      Gestiona tareas en lenguaje natural: Gemini traduce la instrucción a predicados lógicos y el estado cambia solo con funciones puras.
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Jhair-Maldonado/GestionTareas_Gemini">Repositorio</a>
+    </td>
+  </tr>
+</table>
 
----
+<details>
+  <summary><strong>Otros trabajos</strong></summary>
+  <br />
 
-## 🤖 Artificial Intelligence & Integrations
+- [**ParaTodos**](https://github.com/Jhair-Maldonado/ParaTodos): prototipo de tienda inclusiva, auditado con las heurísticas de Nielsen.
+- [**InterpretSigns**](https://github.com/Jhair-Maldonado/INTERPRET_SIGNS): reconocimiento de gestos de lengua de señas en el navegador con MediaPipe.
+- [**ONG-SISTEM**](https://github.com/Jhair-Maldonado/ONG-SISTEM): gestión de gastos, donaciones y voluntarios para una ONG.
+- **Gestión de maquinaria pesada:** requerimientos, diseño funcional y arquitectura técnica.
 
-One of my main areas of interest is integrating artificial intelligence into traditional software architectures.
+</details>
 
-I have worked with:
+## Con qué trabajo
 
-* AI APIs integrated into web applications
-* Contextual assistants and prompt engineering
-* Role-aware AI interactions
-* Backend validation of AI-generated requests
-* Secure handling and masking of sensitive information
-* AI-assisted business process analysis
+**A diario**
 
-My goal is to combine **backend development, security and AI** to build smarter and more efficient software systems.
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,supabase,ts,js,react,nextjs,angular,tailwind,git,github,githubactions,maven&perline=15" alt="Java, Spring Boot, PostgreSQL, MySQL, Supabase, TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS, Git, GitHub, GitHub Actions, Maven" />
 
----
+**Aprendiendo**
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=python,docker&perline=15" alt="Python, Docker" />
 
-### 🎓 CORAULA — Academic Management System
+También: Spring Security, JUnit, Flyway, JWT y BCrypt, APIs REST, levantamiento de requerimientos y especificación SRS.
 
-Academic management platform designed to support students, teachers and institutional processes.
+## Cómo trabajo
 
-**Main areas:**
+- **El dominio primero.** Las reglas de negocio no dependen del framework; la base de datos, la seguridad y la IA son adaptadores.
+- **La seguridad desde el diseño.** Roles, permisos y auditoría se definen antes de escribir el primer endpoint.
+- **Pruebas e integración continua.** Un cambio se une a la rama principal cuando pasa sus pruebas.
+- **La IA con límites.** El asistente de SIVI solo responde con los datos que el rol del usuario puede ver.
 
-`Java` · `Spring Boot` · `React` · `Authentication` · `RBAC` · `Biometrics` · `Database Design`
+## Ahora mismo
 
-➡️ [View CORAULA](https://github.com/Jhair-Maldonado/CORAULA-FRONT)
+- Preparando las certificaciones **Oracle Java OCA y OCP**.
+- Publicando demos de CORAULA y SIVI con datos de prueba.
 
----
+<details>
+  <summary><strong>English</strong></summary>
+  <br />
 
-### 🛒 SIVI — Integrated Sales & Inventory System
+Ninth-term **Systems Engineering** student at UTP in Lima, Peru, focused on **backend development with Java and Spring Boot**. I build systems with hexagonal architecture, secure them with JWT and role-based access, and back every module with automated tests. I'm looking for an **internship** in software or IT.
 
-Web application for managing sales, inventory, purchases, users and business reports.
+- **CORAULA** (academic management): wrote most of the backend and the full admin module; JWT, roles, account lockout and auditing; 700+ team tests with CI. [Demo](https://coraula-front.vercel.app)
+- **SIVI** (sales and inventory): role-aware Gemini assistant, all reporting with PDF and Excel export, and the purchase order module. [Demo](https://sivi-front.pages.dev)
+- **Task chatbot**: natural-language task manager combining Gemini, logic programming and pure functions. [Repo](https://github.com/Jhair-Maldonado/GestionTareas_Gemini)
 
-The system includes authentication with JWT and an integrated **AI assistant**.
+English: intermediate technical reading, basic conversation.
 
-**Main areas:**
-
-`React` · `REST API` · `JWT` · `Inventory Management` · `AI Integration`
-
-➡️ [View SIVI](https://github.com/Jhair-Maldonado/SIVI_FRONT)
-
----
-
-### 🤝 NGO Management System
-
-Administrative platform created to manage expenses, donations and volunteers.
-
-**Main areas:**
-
-`React` · `PostgreSQL` · `Cloud Databases` · `Administrative Management`
-
-➡️ [View Project](https://github.com/Jhair-Maldonado/ONG-SISTEM)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://ghstats.dev/api/card?username=Jhair-Maldonado&theme=catppuccin" alt="Jhair Maldonado GitHub Stats"/>
-
-</div>
-
----
-
-## 🎯 Currently Focused On
-
-* ☕ Improving my **Java & Spring Boot** skills
-* 🏗️ Learning more about **Clean Architecture and Hexagonal Architecture**
-* 🔐 Strengthening my knowledge of **API security and authentication**
-* 🗄️ Improving **database design and optimization**
-* 🤖 Building better **AI-integrated applications**
-* 🧪 Applying testing and clean code practices
-
----
-
-## 📫 Connect With Me
-
-I'm open to collaborating on projects related to **backend development, software engineering and artificial intelligence integrations**.
-
-📧 **Email:** [jhairmaldonadoquintana@gmail.com](mailto:jhairmaldonadoquintana@gmail.com)
-
-💼 **LinkedIn:** [Jhair Junior Maldonado Quintana](https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273)
-
-💻 **GitHub:** [Jhair-Maldonado](https://github.com/Jhair-Maldonado)
+</details>
 
 ---
 
-<div align="center">
-
-### 💻 Backend • Databases • Architecture • Artificial Intelligence
-
-*Turning ideas into software solutions.*
-
-</div>
+<sub>Escríbeme a <a href="mailto:jhairmaldonadoquintana@gmail.com">jhairmaldonadoquintana@gmail.com</a> o por <a href="https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273">LinkedIn</a>.</sub>

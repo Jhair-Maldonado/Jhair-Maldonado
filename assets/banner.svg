@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+  <title id="t">Jhair Maldonado</title>
+  <desc id="d">Desarrollo backend con Java y Spring Boot. Arquitectura hexagonal, seguridad y pruebas.</desc>
+  <style>
+    .name { font: 800 76px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #eef2fa; letter-spacing: -2px; }
+    .role { font: 600 26px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #9fb3ff; }
+    .meta { font: 400 20px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #a3b1cf; }
+    .tag  { font: 600 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #eef2fa; }
+    .core { font: 700 17px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #0f1a33; }
+    .spin { transform-origin: 930px 170px; animation: spin 60s linear infinite; }
+    .pulse { animation: pulse 3.2s ease-in-out infinite; transform-origin: 930px 170px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse { 50% { transform: scale(1.04); } }
+    @media (prefers-reduced-motion: reduce) { .spin, .pulse { animation: none; } }
+  </style>
+  <defs>
+    <pattern id="grid" width="56" height="97" patternUnits="userSpaceOnUse">
+      <path d="M28 0 56 16.2v32.3L28 64.7 0 48.5V16.2Z M28 64.7V97" fill="none" stroke="#9fb3ff" stroke-width="1" opacity="0.08"/>
+    </pattern>
+    <radialGradient id="glow" cx="930" cy="170" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5b83d" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#f5b83d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="18" fill="#0f1a33"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <circle cx="930" cy="170" r="190" fill="url(#glow)"/>
+
+  <!-- Texto -->
+  <text x="64" y="92" class="role">Desarrollo backend con Java y Spring Boot</text>
+  <text x="60" y="180" class="name">Jhair Maldonado</text>
+  <text x="64" y="232" class="meta">Arquitectura hexagonal, seguridad con JWT y pruebas automatizadas.</text>
+  <text x="64" y="266" class="meta">Ingeniería de Sistemas en la UTP, Lima</text>
+  <circle cx="70" cy="300" r="6" fill="#4ade80"/>
+  <text x="86" y="306" class="meta" style="fill:#eef2fa">Disponible para prácticas preprofesionales</text>
+
+  <!-- Arquitectura hexagonal: límite, cables, adaptadores y dominio -->
+  <g class="spin">
+    <path d="M930 30 1051.2 100v140L930 310 808.8 240V100Z" fill="none" stroke="#8fa3d9" stroke-width="1.5" stroke-dasharray="7 6" opacity="0.6"/>
+  </g>
+  <g stroke="#8fa3d9" stroke-width="1.5" opacity="0.6">
+    <line x1="930" y1="122" x2="930" y2="64"/>
+    <line x1="971.6" y1="146" x2="1021" y2="117"/>
+    <line x1="971.6" y1="194" x2="1021" y2="223"/>
+    <line x1="930" y1="218" x2="930" y2="276"/>
+    <line x1="888.4" y1="194" x2="839" y2="223"/>
+    <line x1="888.4" y1="146" x2="839" y2="117"/>
+  </g>
+  <g class="pulse">
+    <path d="M930 116 976.8 143v54L930 224 883.2 197v-54Z" fill="#f5b83d" stroke="#fff1cc" stroke-width="2"/>
+    <text x="930" y="176" class="core" text-anchor="middle">Dominio</text>
+  </g>
+
+  <g>
+    <rect x="884" y="38" width="92" height="30" rx="15" fill="#172752" stroke="#2c3d6b"/>
+    <text x="930" y="58" class="tag" text-anchor="middle">API REST</text>
+    <rect x="1006" y="96" width="112" height="30" rx="15" fill="#172752" stroke="#2c3d6b"/>
+    <text x="1062" y="116" class="tag" text-anchor="middle">PostgreSQL</text>
+    <rect x="1006" y="214" width="112" height="30" rx="15" fill="#172752" stroke="#2c3d6b"/>
+    <text x="1062" y="234" class="tag" text-anchor="middle">JWT y roles</text>
+    <rect x="890" y="272" width="80" height="30" rx="15" fill="#f5b83d"/>
+    <text x="930" y="292" class="tag" text-anchor="middle" style="fill:#0f1a33">JUnit</text>
+    <rect x="752" y="214" width="98" height="30" rx="15" fill="#172752" stroke="#2c3d6b"/>
+    <text x="801" y="234" class="tag" text-anchor="middle">Gemini</text>
+    <rect x="740" y="96" width="122" height="30" rx="15" fill="#172752" stroke="#2c3d6b"/>
+    <text x="801" y="116" class="tag" text-anchor="middle">GitHub Actions</text>
+  </g>
+</svg>
