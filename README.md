@@ -3,9 +3,7 @@
 <p>
   <a href="https://www.linkedin.com/in/jhair-junior-maldonado-quintana-b319b3273"><img src="https://img.shields.io/badge/LinkedIn-Jhair_Maldonado-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jhairmaldonadoquintana@gmail.com"><img src="https://img.shields.io/badge/Correo-jhairmaldonadoquintana@gmail.com-F5B83D?style=flat-square&logo=gmail&logoColor=0F1A33&labelColor=0F1A33" alt="Correo" /></a>
-  <!-- Cuando el portafolio esté publicado, descomenta y pon la URL:
-  <a href="https://TU-URL.vercel.app"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-0F1A33?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-  -->
+  <a href="https://mi-portafolio-one-iota.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-0F1A33?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio" /></a>
 </p>
 
 Estudiante de noveno ciclo de **Ingeniería de Sistemas en la UTP** (Lima, Perú), enfocado en **backend con Java y Spring Boot**. Diseño los sistemas con arquitectura hexagonal, los protejo con JWT y roles, y respaldo cada módulo con pruebas automatizadas.
